@@ -24,11 +24,11 @@ title:                 verticality
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "A blog by Alexander Pak." 
+  "A blog by Alexander Pak."
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Scaling to new heights." 
+  "Scaling to new heights."
 
 # A list of keywords for your blog
 keywords:              []
@@ -63,7 +63,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2019. All rights reserved.
+copyright:             © 2019 Alexander Pak. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
