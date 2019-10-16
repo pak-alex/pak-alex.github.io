@@ -6,9 +6,9 @@ layout: list
 title: Post Mortem
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: post-mortem
+slug: pm
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  An examination of my projects, collaborations, and their takeaways. 
+  An examination of my projects, collaborations, and their takeaways.
 ---
