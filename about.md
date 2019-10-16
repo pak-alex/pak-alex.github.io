@@ -18,8 +18,8 @@ hide_description: true
 Alexander Pak - Data Scientist
 {:.lead}
 
-<!-- ![](/assets/img/profilepic.jpg) -->
+![](/assets/img/profilepic.jpg)
 
 Everyone needs a Data Scientist these days. Data Science is a buzzword. I'm here to prove the buzz around the word.
 
-testing a change
+testing a change2
