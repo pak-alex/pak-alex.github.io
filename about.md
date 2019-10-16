@@ -13,12 +13,14 @@ description: >
 
 # You can show the description on the page by deleting this line:
 hide_description: true
+
+image: /assets/img/profilepic.jpg
 ---
 
 Alexander Pak - Data Scientist
 {:.lead}
 
-![](/assets/img/profilepic.jpg)
+<img src="/assets/img/profilepic.jpg" alt="Profile" width="200"/>
 
 Everyone needs a Data Scientist these days. Data Science is a buzzword. I'm here to prove the buzz around the word.
 
