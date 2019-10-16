@@ -7,4 +7,4 @@ cover: true
 
 I hope something displays here.
 
-![](/assets/img/man-climb.jpg)
+![](/assets/img/man-climb2.jpg)
