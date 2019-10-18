@@ -19,7 +19,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 <p style="color:#FFE63F;">Verticality</p>
+title:                 Verticality
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -36,7 +36,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/v_simple_yellow.png
+logo:                  /assets/img/v_simple_blue.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -79,14 +79,15 @@ paginate_path:         /page-:num/
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/man-climb2.jpg
 # accent_color:           rgb(100,54,0)
-# accent_color:          rgb(79,177,186)
-accent_color:          rgb(255, 230, 63)
+accent_color:          rgb(79,177,186)
+# accent_color:          rgb(255, 230, 63)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
 # theme_color:           rgb(100,54,0)
-theme_color:           rgb(255, 230, 63)
+# theme_color:           rgb(255, 230, 63)
+theme_color:           rgb(79,177,186)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
