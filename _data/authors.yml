@@ -9,7 +9,8 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    MSc Data Science \| BSc Biophysics \n
+    MSc Data Science \| BSc Biophysics
+    
     I am currently looking for a full-time position as a Data Scientist, and to be part of a motivated team that truly wants to make a positive difference through their work.
 
   # This photo will be used in the about section.
